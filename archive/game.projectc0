@@ -1,11 +1,11 @@
 [project]
-title = Flappy Steve
+title = Steve - Save the CRM
 version = 1.0
 write_log = 0
 compress_archive = 1
 publisher = unnamed
 developer = unnamed
-title_as_file_name = FlappySteve
+title_as_file_name = SteveSavetheCRM
 
 [display]
 width = 430
